@@ -32,6 +32,8 @@ I'm flexible about the specific role - whether it's web development, DevOps, dat
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.org/)
+
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io)
@@ -47,6 +49,7 @@ I'm flexible about the specific role - whether it's web development, DevOps, dat
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
 ---
