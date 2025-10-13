@@ -1,10 +1,9 @@
 ## HELLO 👋
 
-🚀 About Me
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GeorgiiAf&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
-
+🚀 My name is George and i am a Software Engineering student and The "Bad Guy" Who Fixes Your Good Systems 
 
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00AA00?style=for-the-badge)
