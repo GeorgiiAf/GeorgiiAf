@@ -10,6 +10,7 @@ I'm flexible about the specific role - whether it's web development, DevOps, dat
 
 
 🎯 **Currently hunting for:** Internships | Junior Roles | Apprenticeships 
+
 🔥 **Ready for:** DevOps, Web Dev, IT Support, Data Analysis, Backend, Cloud, Networks  
 🌱 **Currently learning:** Jenkins, Spring Boot, Kubernetes, Azure Cloud Services, Data Visualization  
 💡 **Strengths:** Problem Solving, Team Collaboration, Mathematical Aptitude, Client Service
