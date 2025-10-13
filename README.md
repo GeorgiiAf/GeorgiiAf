@@ -3,7 +3,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GeorgiiAf&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
-🚀 My name is George and i am a Software Engineering student and The "Bad Guy" Who Fixes Your Good Systems 
+
+### 🚀 My name is George and i am a Software Engineering student and The "Bad Guy" Who Fixes Your Good Systems 
 
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00AA00?style=for-the-badge)
@@ -26,36 +27,36 @@ I'm flexible about the specific role - whether it's web development, DevOps, dat
 **💪 My superpower:** Learning anything fast under pressure (yes)
 
 ---
-🛠️ Tech Stack
 
-**Languages:**  
+### 🛠️ Tech Stack
+
+**Languages**  
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![SQL](https://skillicons.dev/icons?i=sql)](https://en.wikipedia.org/wiki/SQL)
 
-**Frontend:**  
+**Frontend**  
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 
-**Backend & DevOps:**  
+**Backend & DevOps**  
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![Nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.org/)
-
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io)
 
-**Databases & Cloud:**  
+**Databases & Cloud**  
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
 [![MySql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
 
-**Tools:**  
+**Tools**  
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
@@ -64,28 +65,23 @@ I'm flexible about the specific role - whether it's web development, DevOps, dat
 
 ---
 
-📈 Why My Background is an Advantage
+### ⭐ Why My Background is an Advantage
 
-**🔧 Problem-Solving Mindset:** I can solve complex technical problems under pressure  
-**👥 Client-Focused Approach:** Deep understanding of user needs from customer service experience  
-**📊 Analytical Thinking:** Strong mathematical background for data-driven decisions  
-**🔄 Adaptability:** Successfully transitioning from industrial to tech with proven learning ability
+**🔧 Problem-Solving Under Fire**  
+Energy sector taught me: when systems fail, people can't wait. I fix things that matter.
 
-⚡ **Why I'm Different**
-
-**🎯 Problem-Solving Under Fire**  
-Energy sector taught me one thing: when systems fail, people can't wait. I fix things that matter.
-
-**👥 Client Service DNA**  
+**👥 Client-Focused Approach**  
 Years in retail = zero ego. I listen, adapt, and deliver what users actually need.
 
 **📊 Analytical Mind**  
 Math background + engineering mindset = I don't just build things, I build the RIGHT things.
 
+**🔄 Fast Adaptation**  
+Successfully transitioning from industrial to tech with proven learning ability.
 
 ---
 
-Featured Projects
+### 🚀 Featured Projects  
 *[I WILL ADD IT here]*
 
 ---
