@@ -9,11 +9,11 @@ I'm looking for an internship or junior role where I can learn quickly and contr
 I'm flexible about the specific role - whether it's web development, DevOps, data analysis, or IT support, I'm ready to dive in and master whatever tools and technologies are needed.
 
 
-🎯 **Currently hunting for:** Internships | Junior Roles | Apprenticeships 
-🔥 **Ready for:** DevOps, Web Dev, IT Support, Data Analysis, Backend, Cloud, Networks  
-🌱 **Currently learning:** Jenkins, Spring Boot, Kubernetes, Azure Cloud Services, Data Visualization  
-💡 **Strengths:** Problem Solving, Team Collaboration, Mathematical Aptitude, Client Service
-💪 **My superpower:** Learning anything fast under pressure (yes)
+**🎯 Currently hunting for:** Internships | Junior Roles | Apprenticeships  
+**🔥 Ready for:** DevOps | Web Dev | IT Support | Data Analysis | Backend | Cloud | Networks  
+**🌱 Currently learning:** Jenkins | Spring Boot | Kubernetes | Azure Cloud Services | Data Visualization  
+**💡 Strengths:** Problem Solving | Team Collaboration | Mathematical Aptitude | Client Service  
+**💪 My superpower:** Learning anything fast under pressure (yes)
 
 ---
 🛠️ Tech Stack
