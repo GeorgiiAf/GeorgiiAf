@@ -2,6 +2,10 @@
 
 🚀 About Me
 
+![Profile Views](https://komarev.com/ghpvc/?username=GeorgiiAf&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
+
+
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00AA00?style=for-the-badge)
 ![Seeking Internship](https://img.shields.io/badge/Seeking%20Internship-0077B5?style=for-the-badge)
