@@ -19,19 +19,33 @@ I'm flexible about the specific role - whether it's web development, DevOps, dat
 🛠️ Tech Stack
 
 **Languages:**  
-[![My Skills](https://skillicons.dev/icons?i=java,js,python,sql)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![SQL](https://skillicons.dev/icons?i=sql)](https://en.wikipedia.org/wiki/SQL)
 
 **Frontend:**  
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 
 **Backend & DevOps:**  
-[![My Skills](https://skillicons.dev/icons?i=flask,spring,docker,kubernetes,jenkins)](https://skillicons.dev)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io)
 
 **Databases & Cloud:**  
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,azure,linux)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
 
 **Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
 ---
 
