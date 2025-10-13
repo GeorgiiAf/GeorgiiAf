@@ -3,6 +3,12 @@
 🚀 About Me
 
 
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00AA00?style=for-the-badge)
+![Seeking Internship](https://img.shields.io/badge/Seeking%20Internship-0077B5?style=for-the-badge)
+![Available for Projects](https://img.shields.io/badge/Available%20for%20Projects-FF6B6B?style=for-the-badge)
+![Student Developer](https://img.shields.io/badge/Student%20Developer-6A0DAD?style=for-the-badge)
+
+
 As a Software Engineering student, I combine technical education with hands-on experience from energy, industrial, and customer service sectors. I thrive in high-pressure situations where attention to detail matters, and I apply this mindset to building reliable software solutions.
 
 I'm looking for an internship or junior role where I can learn quickly and contribute from day one. 
