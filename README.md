@@ -79,10 +79,3 @@ Math background + engineering mindset = I don't just build things, I build the R
 **🔄 Fast Adaptation**  
 Successfully transitioning from industrial to tech with proven learning ability.
 
----
-
-### 🚀 Featured Projects  
-*[I WILL ADD IT here]*
-
----
-
