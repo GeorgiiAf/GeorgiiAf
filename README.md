@@ -87,6 +87,7 @@ AI-powered web application for students. Upload documents, generate summaries, a
 ➡️ Focus: backend logic, data processing  
 🔗 https://github.com/USERNAME/ai-study-assistant
 
+---
 
 ### ⭐ Why My Background is an Advantage
 
