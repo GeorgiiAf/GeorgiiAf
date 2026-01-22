@@ -9,22 +9,22 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00AA00?style=for-the-badge)
 ![Seeking Internship](https://img.shields.io/badge/Seeking%20Internship-0077B5?style=for-the-badge)
-![Will Code For Food](https://img.shields.io/badge/Will_Code_For_Food-FF6B6B?style=for-the-badge)
-![Hire Me Please](https://img.shields.io/badge/Hire_Me_Please-00AA00?style=for-the-badge)
-![Basically A Superhero](https://img.shields.io/badge/Basically_A_Superhero-FFA500?style=for-the-badge)
+![Junior Friendly](https://img.shields.io/badge/Junior%20Friendly-555555?style=for-the-badge)
 
 
-As a Software Engineering student, I combine technical education with hands-on experience from energy, industrial, and customer service sectors. I thrive in high-pressure situations where attention to detail matters, and I apply this mindset to building reliable software solutions.
 
-I'm looking for an internship or junior role where I can learn quickly and contribute from day one. 
-I'm flexible about the specific role - whether it's web development, DevOps, data analysis, or IT support, I'm ready to dive in and master whatever tools and technologies are needed.
+As a Software Engineering student, I combine technical education with hands-on experience from energy, industrial, and customer service environments. I am comfortable working with complex systems, following structured processes, and paying attention to detail — especially in situations where reliability matters.
+
+I am currently seeking an internship or junior-level role where I can grow professionally while contributing from day one. I am flexible regarding the role and environment and open to working in web development, backend, DevOps, data analysis, or IT support. I enjoy learning new tools in practice and applying them to real-world problems.
 
 
-**🎯 Currently hunting for:** Internships | Junior Roles | Apprenticeships  
-**🔥 Ready for:** DevOps | Web Dev | IT Support | Data Analysis | Backend | Cloud | Networks  
-**🌱 Currently learning:** Jenkins | Spring Boot | Kubernetes | Azure Cloud Services | Data Visualization  
-**💡 Strengths:** Problem Solving | Team Collaboration | Mathematical Aptitude | Client Service  
-**💪 My superpower:** Learning anything fast under pressure (yes)
+
+**🎯 Currently looking for:** Internship | Junior Software Engineer | Trainee  
+**🧭 Open to roles in:**  Web Development | Data Analysis | AI | IT Support  
+**🌱 Currently learning:** Jenkins | Machine Learning | Azure | Data handling  
+**💡 Strengths:** Problem Solving | Structured Thinking | Teamwork | Customer-Oriented Mindset  
+**💪 Key trait:** Fast learner with engineering discipline
+
 
 ---
 
@@ -46,7 +46,6 @@ I'm flexible about the specific role - whether it's web development, DevOps, dat
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![Nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.org/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io)
 
 **Databases & Cloud**  
@@ -64,6 +63,30 @@ I'm flexible about the specific role - whether it's web development, DevOps, dat
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
 ---
+
+### 🚀 Selected Projects
+
+
+🔹 **Burger Restaurant App** — *React, Express, MySQL*  
+Full-stack SPA with routing, dynamic menu rendering, and cart functionality.  
+➡️ Focus: REST APIs, frontend–backend integration  
+🔗 https://github.com/Kreetrix/web-project-frontend
+
+🔹 **Student Management System** — *Flask, PostgreSQL,Bootstrap, Js*  
+CRUD web application with emphasis on relational database and frontend and backend integration.  
+➡️ Focus: full-stack web-development,data modeling, REST APIs  
+🔗 https://github.com/GeorgiiAf/WebStudentManager
+
+🔹 **Teachers–Themes Dashboard** — *Flask, Docker, Nginx, PostgreSQL, wsl*  
+Multi-user dashboard deployed with Docker and Nginx/uWSGI.  
+➡️ Focus: web-development,deployment, containers, cloud basics  
+🔗 https://github.com/GeorgiiAf/Teachers-themes-dashboard
+
+🔹 **AI Study Assistant** — *Flask, Python , Ollama *  
+AI-powered web application for students. Upload documents, generate summaries, and create quizzes.  
+➡️ Focus: backend logic, data processing  
+🔗 https://github.com/USERNAME/ai-study-assistant
+
 
 ### ⭐ Why My Background is an Advantage
 
