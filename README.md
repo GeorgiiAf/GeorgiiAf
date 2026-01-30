@@ -85,7 +85,7 @@ Multi-user dashboard deployed with Docker and Nginx/uWSGI.
 🔹 **AI Study Assistant** — *Flask, Python , Ollama *  
 AI-powered web application for students. Upload documents, generate summaries, and create quizzes.  
 ➡️ Focus: backend logic, data processing  
-🔗 https://github.com/USERNAME/ai-study-assistant
+🔗 [https://github.com/USERNAME/ai-study-assistant](https://github.com/GeorgiiAf/flask-assignment)
 
 ---
 
